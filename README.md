@@ -1,22 +1,11 @@
-chat-bot
+tookbot
 ========
 
-Client-side JavaScript chat bot framework
+The world's most advanced cat chatbot.
 
-You can access [an online version here](http://liouh.com/bot/)
+Features:
+- Can pass a cat Turing test.
 
-### Notes
+Made for AJ.
 
-* The brains behind this chat bot is VERY basic
-* If you want to make it smarter, you can do so in chat-bot.js
-* Some commands you can try:
- * hello
- * what's up?
- * haha
- * no!
- * is that all?
- * talk to you later
-
-### Library Dependencies
-
-* jQuery
+Chatbot framework by [Henry Liou](https://github.com/liouh/chat-bot).

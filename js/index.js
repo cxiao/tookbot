@@ -2,7 +2,7 @@ $(function() {
 
 	// chat aliases
 	var you = 'You';
-	var robot = 'Buddy';
+	var robot = 'tookbot';
 	
 	// slow reply by 400 to 800 ms
 	var delayStart = 400;
@@ -68,6 +68,6 @@ $(function() {
 	$('.input a').bind('click', submitChat);
 	
 	// initial chat state
-	updateChat(robot, 'Hi there. Try typing something!');
+	updateChat(robot, 'meow');
 
 });
